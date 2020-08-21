@@ -1,0 +1,6 @@
+#Project case study
+	You are contracted by a company to create an console application that will display files in a certain formats based on a text file produced by a PLC. The reason the company needs this is that it owns PCL devices that output certain values to text files but for them to import it to the website they need it in specific formats and they also need it to be extensible for future expansion. So you are required to be able to convert the attatched text file "CarTxtFile.txt" to JSON and XML.
+
+For this application to be extensible you are required
+to use an appropriate design pattern to ensure that it 
+is extensible in the future.
